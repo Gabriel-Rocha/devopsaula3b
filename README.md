@@ -2,6 +2,6 @@
 # Ferramentas de controle de vesão:
 
 * Mercurial
-* GitHub
+* Git
 * Subversion
 * CVS
